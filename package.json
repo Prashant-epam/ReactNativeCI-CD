@@ -23,8 +23,6 @@
     "@react-navigation/stack": "^6.3.20",
     "@reduxjs/toolkit": "^1.9.7",
     "appcenter": "5.0.1",
-    "appcenter-analytics": "5.0.1",
-    "appcenter-crashes": "5.0.1",
     "axios": "^1.6.0",
     "eslint-config-airbnb": "^19.0.4",
     "lint-staged": "^15.0.2",
