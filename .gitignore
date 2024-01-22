@@ -64,3 +64,8 @@ yarn-error.log
 
 # testing
 /coverage
+
+.DS_Store
+
+# react-native-ultimate-config
+rnuc.xcconfig
